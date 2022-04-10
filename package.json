@@ -1,0 +1,17 @@
+{
+  "name": "atcoder",
+  "description": "My AtCoder Submissions",
+  "author": "Shun Tedokon <me@tdkn.dev> (https://tdkn.dev)",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/tdkn/atcoder/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@types/node": "~12",
+    "typescript": "~3.8"
+  }
+}
